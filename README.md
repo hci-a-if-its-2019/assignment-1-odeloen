@@ -15,7 +15,8 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 3. Interested in computer, but the information that can be accessed from her place is limited
 
 ## Transcript
-1  F Ditempat mu ada pembelajaran tentang komputer komputer gitu?  
+```text
+1 F Ditempat mu ada pembelajaran tentang komputer komputer gitu?  
 2  A Ada clubnya gitu sih, tapi ya gitu, ga jalan  
 3  F Hoo. Tapi yang minat banyak ga?  
 4  A Lumayan sih, tapi kami bingung gitu kalo mau belajar  
@@ -73,7 +74,7 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 56 F Sipsip  
 57 A Masih ada lagi?  
 58 F Udah engga kok  
-
+```
 ## Models and Annotations
 
 ### Artifact Model
@@ -88,7 +89,7 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 ![Flow Model and Annotation](/images/hci-assignment-1-flow.png)
 
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](/images/hci-assignment-1-cultural.png)
 
 ## Do's and Don't's
 
