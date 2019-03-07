@@ -5,9 +5,9 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 ## Instruction Script
 1. Open one of the article
 2. Open one of the article from a certain article category 
-2. Download the attachment from the article
-3. Register
-4. Using the search feature
+3. Download the attachment from the article
+4. Register
+5. Using the search feature
 
 ## User Description
 1. A girl
@@ -49,7 +49,7 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 32 F Ada itu, kamu kurang teliti aja  
 33 A oh iya ada. Tadi kelewatan  
 34 A Ok udah selesai  
-35 F Sekarang coba register dulu aja  
+35 F Sekarang coba register dulu  
 36 A Ok  
 37 A Hmm, biasanya ada diatas sini  
 38 -- A mencoba mencari dimana letak registernya --  
@@ -85,7 +85,7 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 ![(52 - 55) Pada halaman pencarian, bagian paling atas merupakan iklan yang akan membingungkan pencari karena tidak ada perbedaan yang berarti pada bagian iklan](/images/hci-assignment-1-search.png)
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model and Annotation](/images/hci-assignment-1-flow.png)
 
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
