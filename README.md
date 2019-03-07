@@ -1,18 +1,87 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+ilmukomputer.com is an educational site that contains tutorials and articles that talk about computer science.
+
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+1. Open one of the article
+2. Open one of the article from a certain article category 
+2. Download the attachment from the article
+3. Register
+4. Using the search feature
+
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+1. A girl
+2. My own cousin
+3. Interested in computer, but the information that can be accessed from her place is limited
+
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
-## Models and Annotations
+1  F Ditempat mu ada pembelajaran tentang komputer komputer gitu?
+2  A Ada clubnya gitu sih, tapi ya gitu, ga jalan
+3  F Hoo. Tapi yang minat banyak ga?
+4  A Lumayan sih, tapi kami bingung gitu kalo mau belajar
+5  F Coba buka ilmukomputer.com deh
+6  A Itu web apaan?
+7  F Semacam tempat baca artikel artikel gitu sih
+8  A Ok, ini udah ku buka webnya. Ini webnya bener?
+9  F Bener kok
+10 A Iya ta? Kalo gitu ini webnya lagi error apa gimana?
+11 F Engga kok. Webnya emang gitu. Nah, coba cari artikel yang kamu seneng
+12 A Hmm. Dimana ada artikelnya?
+13 F Ada itu. Coba cari dulu
+14 -- A mencoba mencari dimana letak artikelnya --
+15 A Ooh. Ini bisa dipencet to
+16 F Kamu tadi akhirnya pencet apa?
+17 A Tadi aku pencet gambar ini sih
+18 F Ooh. Okok
+19 A Hmm. Perasaan ku aja atau emang ini webnya rusuh banget udah gitu kecil banget tulisannya
+20 F Hoo. Rusuh gimana?
+21 A Rame banget, selain itu peletakannya juga ga enak diliat. Ga kayak yang sebelum-sebelumnya kamu pernah kasih
+22 F Wkwkwk. Di coba dulu aja. Siapa tau bermanfaat
+23 A Ok, ini aku udah ketemu artikel, terus diapain?
+24 F Itukan artikelnya pendek sekali, coba kamu cari artikel lengkapnya
+25 A Hmm. Ini ya?
+26 F Iya, itu artikel lengkapnya
+27 A Kenapa ga ditarok ke webnya aja ya?
+28 F Nanti aku jelasin, sekarang coba cari artikel dari kategori pemograman pascal
+29 A Hmm. Tadi aku liat kategori ada dibagian bawah
+30 -- A melakukan pecarian kategori pemograman pascal pada daftar kategori --
+31 A Ga ada
+32 F Ada itu, kamu kurang teliti aja
+33 A oh iya ada. Tadi kelewatan
+34 A Ok udah selesai
+35 F Sekarang coba register dulu aja
+36 A Ok
+37 A Hmm, biasanya ada diatas sini
+38 -- A mencoba mencari dimana letak registernya --
+39 A Ooh. Tumben ditarok disini
+40 F Ditarok dimana?
+41 A Aku biasa ngeliat login register di bagian atas sih
+42 F Ooh. Gimana? Udah bisa register
+43 A Udah kok. Ini web yang sama atau beda ya?
+44 F Itu web yang sama kok, cuma emang tema warnanya beda
+45 A Habis ini ngapain?
+46 F Tadikan kamu nyari artikelnya lewat halaman utamanya, sekarang coba nyari artikelnya lewat fitur searchnya
+47 A Berarti ini balik dulu?
+48 F Iyap
+49 A Mana tombol baliknya ya?
+50 F Ada kok, cari dulu aja
+51 A Ooh. Ini udah bisa
+52 F Ok coba pake fitur searchnya buat nyari artikel yang ada kata kata jaringan
+53 A Kok tiba tiba bahasa inggris?
+54 F Itu iklan aja kok.
+55 A Ok. Udah
+56 F Sipsip
+57 A Masih ada lagi?
+58 F Udah engga kok## Models and Annotations
+
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+
