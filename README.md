@@ -35,7 +35,7 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 18 F Ooh. Okok
 19 A Hmm. Perasaan ku aja atau emang ini webnya rusuh banget udah gitu kecil banget tulisannya
 20 F Hoo. Rusuh gimana?
-21 A Rame banget, selain itu peletakannya juga ga enak diliat. Ga kayak yang sebelum-sebelumnya kamu pernah kasih
+21 A Rame banget, selain itu peletakannya juga ga enak diliat. Ga kayak yang sebelum-sebelumnya yang kamu pernah kasih
 22 F Wkwkwk. Di coba dulu aja. Siapa tau bermanfaat
 23 A Ok, ini aku udah ketemu artikel, terus diapain?
 24 F Itukan artikelnya pendek sekali, coba kamu cari artikel lengkapnya
@@ -66,16 +66,23 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 49 A Mana tombol baliknya ya?
 50 F Ada kok, cari dulu aja
 51 A Ooh. Ini udah bisa
-52 F Ok coba pake fitur searchnya buat nyari artikel yang ada kata kata jaringan
+52 F Ok coba pake fitur searchnya buat nyari artikel yang ada kata kata "jaringan"
 53 A Kok tiba tiba bahasa inggris?
 54 F Itu iklan aja kok.
 55 A Ok. Udah
 56 F Sipsip
 57 A Masih ada lagi?
-58 F Udah engga kok## Models and Annotations
+58 F Udah engga kok
+
+## Models and Annotations
 
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![(15 - 17) Halaman portal pertama, tidak ada petunjuk maupun pembeda dari gambar yang bisa diklik](/images/hci-assignment-1-portal.png)
+![(19 - 21) (35 - 41) Pada halaman utama bagian atas, terlalu penuh dengan informasi dan tidak disusun secara rapi sehingga terkesan rusuh dan bagian register dan pun berada pada tempat yang sama dengan artikel](/images/hci-assignment-1-mainpage-top.png)
+![(24 - 26) Pada halaman artikel, bagian lampiran ditempatkan dibagian yang cenderung tidak dihiraukan](/images/hci-assignment-1-article.png)
+![(28 - 33) Pada halaman utama bagian bawah, bagian kategori terlalu menumpuk sehingga rawan kelewatan](/images/hci-assignment-1-mainipage-bot.png)
+![(43 - 44) (46 - 51) Pada halaman pengaturan profil, tema yang digunakan berbeda jadi berkesan pengguna berada pada web yang berbeda dan tombol untuk kembali kepada halaman utama kurang terlihat](/images/hci-assignment-1-profile.png)
+![(52 - 55) Pada halaman pencarian, bagian paling atas merupakan iklan yang akan membingungkan pencari karena tidak ada perbedaan yang berarti pada bagian iklan](/images/hci-assignment-1-search.png)
 
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
