@@ -93,3 +93,13 @@ ilmukomputer.com is an educational site that contains tutorials and articles tha
 
 ## Do's and Don't's
 
+
+# Remarks
+> * The website's `Description` could be more. The current description is too short (only one sentence).
+> * Rather than writing a general instruction, e.g., `Open one of the article` You could bring a specific example for the name of the article.
+> * Thanks for picking prospective breakdowns in the `Models`. The first breakdown (`There are no indicators that these can be clicked`) is a good one. It really deserves a better design as the button affordance is not presented. However, some breakdown symbols (red bolts) in the `Artifact Model` are not annotated with texts (and line-numbers). They may confuse readers since they do not provide what exactly the problems are.
+> * Unfortunately, the report is not equipped with `Do's and Don't's` section. This section is required to help yourself determining what's the resolution leading to the proposed designs.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 5                | 0               | 84                 | 80,5       | 83,3  |
